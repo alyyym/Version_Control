@@ -1,0 +1,1 @@
+print("gumana ka pls")
